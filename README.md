@@ -39,8 +39,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/deeplukhi/deeplukhi/output/snake.svg" alt="Snake animation" />
-
-###
