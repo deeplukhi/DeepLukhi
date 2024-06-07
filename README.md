@@ -35,4 +35,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeplukhi&" alt="deeplukhi" /></p>
 
- 
+ <h2 align="left">Hi 👋! snack eating my contribution.</h2>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/deeplukhi/deeplukhi/output/snake.svg" alt="Snake animation" />
+
+###
