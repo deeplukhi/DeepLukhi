@@ -37,4 +37,3 @@
 
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deeplukhi)](https://github.com/ryo-ma/github-profile-trophy)
