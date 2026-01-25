@@ -16,10 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deeplukhi69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deeplukhi11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deep lukhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep lukhi" height="30" width="40" /></a>
-<a href="https://fb.com/deep lukhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deep lukhi" height="30" width="40" /></a>
-<a href="https://instagram.com/deeplukhi_.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deeplukhi_.11" height="30" width="40" /></a>
+<a href="https://twitter.com/deeplukhi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deeplukhi11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deeplukhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep lukhi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deeplukhi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deeplukhi11" height="30" width="40" /></a>
 </p>
 
