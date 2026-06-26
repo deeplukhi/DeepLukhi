@@ -20,7 +20,7 @@
 <a href="https://twitter.com/deeplukhi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deeplukhi11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deeplukhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeplukhi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deeplukhi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deeplukhi11" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/deeplux1js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/deeplux1js" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/deeplux1js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/deeplux1js" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
