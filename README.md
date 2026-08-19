@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as **Backend Developer Intern at Vailora Technolab**
+- 🔭 Currently working as **Building scalable backend systems**
 - 🌱 Learning **System Design, Scalable Backend Development & PostgreSQL**
 - 👯 Looking to collaborate on **Backend Development & Open Source**
 - 🤝 Interested in **Open Source Contributions & GSoC**
@@ -30,7 +30,6 @@
 
 ### 🏆 Highlights
 
-- 🔹 Backend Intern at Vailora Technolab
 - 🔹 Active on LeetCode & GeeksforGeeks
 - 🔹 Passionate about scalable system design & open source
 
